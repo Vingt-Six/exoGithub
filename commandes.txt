@@ -1,3 +1,5 @@
 cd
 ls
 pwd
+head
+tail
